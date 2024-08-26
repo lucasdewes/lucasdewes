@@ -1,19 +1,36 @@
-### hey there 
-<a href="https://www.instagram.com/lucas_dewes/">
-  <img align="left" alt="Lucas's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/KUpenUghVh">
-  <img align="left" alt="Lucas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lucas-dewes-9aa93b130/">
-  <img align="left" alt="Lucas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=bfbbba&animation=twinkling&fontAlignY=35"/> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=lucasdewes.lucasdewes)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+### Hi there 👋
+
+My name is Lucas Dewes.
+## **My Social Networks**
+
+<p align="left">
+  <a href="dewes81@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+
+  <a href="https://www.linkedin.com/in/lucas-dewes-9aa93b130/" alt="Linkedin" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  
+  <a href="https://wa.me/5565999524940" alt="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/lucas_dewes/" alt="Instagram" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  </p>
+
+<br>
 
 <br />
 
-hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take great care in the experience, architecture, and code quality of the things I build.
+hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take great care in the architecture, and code quality of the things I build.
 
 i am also an open-source suporter. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
 
