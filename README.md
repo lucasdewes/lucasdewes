@@ -1,14 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db5030&height=150&section=header&text=%20%20%20&fontSize=35&fontColor=bfbbba&animation=twinkling&fontAlignY=35"/> 
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Hi there 👋
 
 My name is Lucas Dewes.
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF945E&lines=Back-end+Developer)](https://git.io/typing-svg)
 Welcome to my GitHub page.
 <br>
+
+
+hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take great care in the architecture, and code quality of the things I build.
+
+i am also an open-source suporter. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
+
+  <img align="right" alt="GIF" src="https://github.com/lucasdewes/lucasdewes/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any job offer? do reach, [email](mailto:dewes81@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
 ## **My Social Networks**
 
@@ -32,15 +40,6 @@ Welcome to my GitHub page.
 
 <br>
 
-<br />
-
-hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take great care in the architecture, and code quality of the things I build.
-
-i am also an open-source suporter. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
-
-  
-- 💼 any job offer? do reach, [email](mailto:dewes81@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
