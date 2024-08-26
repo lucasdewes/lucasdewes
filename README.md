@@ -9,7 +9,7 @@ Welcome to my GitHub page.
 <br>
 
 
-hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take great care in the architecture, and code quality of the things I build.
+👨‍💻 i'm a passionate DOTNET developer from Brazil. I take great care in the architecture, and code quality of the things I build.
 
 i am also an open-source suporter. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
 
