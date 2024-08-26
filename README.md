@@ -13,7 +13,6 @@ hi, 👨‍💻 i'm Lucas, a passionate DOTNET developer from Brazil. I take gre
 
 i am also an open-source suporter. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happens through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/lucasdewes/lucasdewes/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any job offer? do reach, [email](mailto:dewes81@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
