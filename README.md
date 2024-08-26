@@ -20,7 +20,7 @@ i am also an open-source suporter. I learned a lot from the open-source communit
 ## **My Social Networks**
 
 <p align="left">
-  <a href="dewes81@gmail.com" alt="Gmail" target="_blank">
+  <a href="[email](mailto:dewes81@gmail.com)" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 
